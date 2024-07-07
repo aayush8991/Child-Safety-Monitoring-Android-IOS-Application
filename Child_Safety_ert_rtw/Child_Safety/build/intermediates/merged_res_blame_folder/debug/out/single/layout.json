@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Aayush\\Aayush\\Matlab\\Child_Safety_ert_rtw\\Child_Safety\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Aayush\\Aayush\\Matlab\\Child_Safety_ert_rtw\\Child_Safety\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Aayush\\Aayush\\Matlab\\Child_Safety_ert_rtw\\Child_Safety\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_app.xml",
+        "source": "D:\\Aayush\\Aayush\\Matlab\\Child_Safety_ert_rtw\\Child_Safety\\src\\main\\res\\layout\\fragment_app.xml"
+    },
+    {
+        "merged": "D:\\Aayush\\Aayush\\Matlab\\Child_Safety_ert_rtw\\Child_Safety\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_log.xml",
+        "source": "D:\\Aayush\\Aayush\\Matlab\\Child_Safety_ert_rtw\\Child_Safety\\src\\main\\res\\layout\\fragment_log.xml"
+    },
+    {
+        "merged": "D:\\Aayush\\Aayush\\Matlab\\Child_Safety_ert_rtw\\Child_Safety\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\auto_generated_widgets.xml",
+        "source": "D:\\Aayush\\Aayush\\Matlab\\Child_Safety_ert_rtw\\Child_Safety\\src\\main\\res\\layout\\auto_generated_widgets.xml"
+    },
+    {
+        "merged": "D:\\Aayush\\Aayush\\Matlab\\Child_Safety_ert_rtw\\Child_Safety\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_info.xml",
+        "source": "D:\\Aayush\\Aayush\\Matlab\\Child_Safety_ert_rtw\\Child_Safety\\src\\main\\res\\layout\\fragment_info.xml"
+    }
+]

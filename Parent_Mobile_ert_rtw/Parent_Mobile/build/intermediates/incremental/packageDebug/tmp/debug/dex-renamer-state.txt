@@ -1,0 +1,4 @@
+#Sat Sep 30 10:46:51 IST 2023
+base.0=D\:\\Aayush\\Aayush\\Matlab\\Parent_Mobile_ert_rtw\\Parent_Mobile\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,50 @@
+buildscript {
+    repositories {
+        google()
+jcenter()
+    }
+    
+}
+allprojects {
+   repositories {
+      google()
+jcenter()
+   }
+}
+
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 32
+    buildToolsVersion '32.0.0'
+    sourceSets.main {
+       manifest.srcFile 'AndroidManifest.xml'
+       java.srcDirs = ['src']
+       resources.srcDirs = ['src']
+       aidl.srcDirs = ['src']
+       renderscript.srcDirs = ['src']
+       res.srcDirs = ['res']
+       assets.srcDirs = ['assets']
+	}
+
+    buildFeatures {
+        viewBinding = true
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFile getDefaultProguardFile('proguard-android.txt')
+        }
+    }
+    aaptOptions {  
+        cruncherEnabled = false
+    }
+    defaultConfig {
+        minSdkVersion 17
+        targetSdkVersion 28
+    }
+}
+
+
+

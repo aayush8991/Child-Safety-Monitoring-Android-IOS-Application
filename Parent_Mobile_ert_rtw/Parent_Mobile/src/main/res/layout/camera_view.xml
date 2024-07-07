@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016-2022 The MathWorks, Inc. -->
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.Parent_Mobile.CameraView
+        android:id="@+id/surface_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"/>
+
+    <com.example.Parent_Mobile.Camera2View
+        android:id="@+id/surface2_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+       />
+</FrameLayout>
